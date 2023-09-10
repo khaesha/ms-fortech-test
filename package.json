@@ -1,7 +1,10 @@
 {
   "name": "ms-fortech-test",
   "version": "1.0.0",
-  "description": "",
+  "engines": {
+    "node": "18.x"
+  },
+  "description": "This mini project is part of the test requirements in Forest Technology.",
   "main": "index.js",
   "scripts": {
     "start": "node dist/index.js",
