@@ -6,10 +6,15 @@ import * as ProductController from '../controllers/Product';
 import { OK } from '../constants/HttpStatusCode';
 
 // load middleware
-import { auth }  from '../middlewares';
+import { auth } from '../middlewares';
 
 const router = Router();
 
+router.get('/', (req: Request, res: Response) =>
+  res.status(OK).json({
+    message: 'Welcome'
+  })
+);
 router.get('/health', (req: Request, res: Response) =>
   res.status(OK).json({
     message: 'PONG',
