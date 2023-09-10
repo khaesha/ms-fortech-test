@@ -35,6 +35,8 @@ This mini project is part of the test requirements in Forest Technology.
 
 ## Getting Started
 
+First thing first please execute DDL file in `/db` folder first.
+
 ### Installation
 
 
@@ -54,6 +56,9 @@ npm install
 Running project locally
 
 ```bash
+# Copy .env.example file to .env and fill in with you own configuration
+cp .env.example .env
+
 npm run dev
 ```
 
