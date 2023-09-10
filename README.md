@@ -1,6 +1,4 @@
-# Project Name
-
-A brief description of your project.
+# ms-fortech-test
 
 ## Table of Contents
 
@@ -22,19 +20,18 @@ A brief description of your project.
 
 ## Introduction
 
-Provide a brief introduction to your project, explaining its purpose and what problem it aims to solve.
+This mini project is part of the test requirements in Forest Technology.
 
 ## Features
 
 List the key features of your project.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Login.
+- Register.
+- Create and view product data.
+- View audit log data.
 
-## Prerequisites
-
-List any prerequisites that users need to have installed before they can use your project. Include links to installation guides if necessary.
+## Tech Stack
 
 - Node.js: [Install Node.js](https://nodejs.org/)
 - TypeScript: [Install TypeScript](https://www.typescriptlang.org/)
@@ -46,18 +43,22 @@ List any prerequisites that users need to have installed before they can use you
 
 ## Getting Started
 
-Explain how to get started with your project.
-
 ### Installation
 
-Provide step-by-step instructions for installing and setting up your project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/khaesha/ms-fortech-test.git
 
 # Navigate to the project directory
-cd yourproject
+cd ms-fortech-test
 
 # Install dependencies
 npm install
+```
+
+### Testing
+
+```bash
+npm run test
+```
