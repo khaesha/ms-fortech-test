@@ -25,13 +25,13 @@ This mini project is part of the test requirements in Forest Technology.
 
 ## Tech Stack
 
-- Node.js: [Install Node.js](https://nodejs.org/)
-- TypeScript: [Install TypeScript](https://www.typescriptlang.org/)
-- MySQL: [Install MySQL](https://dev.mysql.com/doc/mysql-installation-excerpt/en/)
-- Sequelize [Install Sequelize](https://sequelize.org/)
-- Jest [Install Jest](https://jestjs.io/)
-- Jsonwebtoken [Install Jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
-- Joi [Install Joi](https://joi.dev/)
+- Node.js: [Node.js](https://nodejs.org/)
+- TypeScript: [TypeScript](https://www.typescriptlang.org/)
+- MySQL: [MySQL](https://dev.mysql.com/doc/mysql-installation-excerpt/en/)
+- Sequelize [Sequelize](https://sequelize.org/)
+- Jest [Jest](https://jestjs.io/)
+- Jsonwebtoken [Jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
+- Joi [Joi](https://joi.dev/)
 
 ## Getting Started
 
