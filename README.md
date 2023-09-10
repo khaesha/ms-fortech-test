@@ -6,25 +6,17 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
-  - [Prerequisites](#prerequisites)
+  - [Tech Stack](#tech-stack)
   - [Getting Started](#getting-started)
     - [Installation](#installation)
-    - [Configuration](#configuration)
   - [Usage](#usage)
-  - [Database](#database)
-  - [API Endpoints](#api-endpoints)
   - [Testing](#testing)
-  - [Deployment](#deployment)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## Introduction
 
 This mini project is part of the test requirements in Forest Technology.
 
 ## Features
-
-List the key features of your project.
 
 - Login.
 - Register.
@@ -55,6 +47,14 @@ cd ms-fortech-test
 
 # Install dependencies
 npm install
+```
+
+### Run the project
+
+Running project locally
+
+```bash
+npm run dev
 ```
 
 ### Testing
